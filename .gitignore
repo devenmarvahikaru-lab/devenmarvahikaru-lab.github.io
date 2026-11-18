@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+screenshots/
+.env
+.agents/
+.claude/
+.cursor/
+.gemini/
+.opencode/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
